@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "822087272712",
+    "firebase_url": "https://seavpov-e3299.firebaseio.com",
+    "project_id": "seavpov-e3299",
+    "storage_bucket": "seavpov-e3299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822087272712:android:216ca8cbc34f193b1744bd",
+        "android_client_info": {
+          "package_name": "dev.thaiveng.seavphov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822087272712-74d1h2vmfstbu7dvks44b8d0g8cnfvh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDWfS4_C0NNF5wm9SjH1Q4fjK1x2chQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822087272712-74d1h2vmfstbu7dvks44b8d0g8cnfvh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822087272712:android:45a6115a6833ecc01744bd",
+        "android_client_info": {
+          "package_name": "thaiveng.dev.customwidget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822087272712-74d1h2vmfstbu7dvks44b8d0g8cnfvh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDWfS4_C0NNF5wm9SjH1Q4fjK1x2chQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822087272712-74d1h2vmfstbu7dvks44b8d0g8cnfvh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
